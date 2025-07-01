@@ -1,0 +1,12 @@
+/.idea/
+.env
+*.env
+/projectenv/
+/__pycache__/
+*.pyc
+*.zip
+/azure.txt
+*.jpg
+*.png
+*.PNG
+/Information/
